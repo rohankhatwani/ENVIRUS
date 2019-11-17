@@ -4,5 +4,4 @@ Our project takes data from harmful air particles from transport,smoke from fact
 Traffic is the most important problem in India which is causing illness.Many people living have reported acute respiratory problem . We to manipulate traffic in that area so as to keep up the standards of AQI(Air Quality Index).
 
 
-
 ![](deepin-screen-recorder_Select area_20191117230623.gif)
