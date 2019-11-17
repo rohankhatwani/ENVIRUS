@@ -1,0 +1,2 @@
+# ENVIRUS
+Our project takes data from harmful air particles from transport,smoke from factories, and other sources of air pollution and predicts the air quality index. But predicting solely does'nt make sense so we also predict the pollution caused when we have the current senario of traffic or smoke and when it is minimized by some percent. This in return will make the government aware of the reforms currently going on to make the environment more lively in terms of human health.So, suggesting ways to reduce the things which are harmful to the air.
